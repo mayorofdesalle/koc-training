@@ -1,9 +1,8 @@
 # koc-training
 TODO:
-- Further Preprocessing
 - Under/Oversampling
 - Dimensionality Reduction
-- AUC and other metrics
+- Different Metrics
 - Models:
   - Decision Tree
   - Random Forest
