@@ -13,4 +13,4 @@ TODO:
   - Lasso and Elastic-Net?
   - Maybe a voting classifier?
   - LDA as a classifier?
-- Model Comparison
+- Model Analysis
