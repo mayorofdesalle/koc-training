@@ -1,13 +1,8 @@
 # koc-training
 TODO:
-- Under/Oversampling
-- Dimensionality Reduction
 - Different Metrics
 - Models:
-  - Decision Tree
-  - Random Forest
   - K Nearest Neighbours
-  - Logistic Regression
   - Boosts?
   - Neural Network?
   - Lasso and Elastic-Net?
