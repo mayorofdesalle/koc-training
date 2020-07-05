@@ -2,7 +2,6 @@
 TODO:
 - Different Metrics
 - Models:
-  - K Nearest Neighbours
   - Boosts?
   - Neural Network?
   - Lasso and Elastic-Net?
