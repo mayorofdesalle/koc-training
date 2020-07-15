@@ -6,3 +6,4 @@ TODO:
   - Lasso and Elastic-Net?
   - LDA as a classifier?
 - Model Analysis
+- Semantic Stuff
